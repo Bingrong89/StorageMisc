@@ -1,3 +1,5 @@
+Note.. I did this when I started learning Pytorch because Caffe is not exactly the most pleasant framework to work with.
+
 Code originally created for a 'flexible neural network' that has multiple entry points depending on input image size.
 Thus, instead of having to resize input images all to the same size, this architecture provides multiple resize options.
 Really just because I am not very comfortable with how we resize images to the same size when they can differ significantly in size.
